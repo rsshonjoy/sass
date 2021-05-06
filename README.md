@@ -9,7 +9,7 @@
 - **[02](IDEs-setup/ides-setup.md 'Sass IDEs-setup')** - **[IDEs setup](/IDEs-setup/ides-setup.md)**
 - **[03](sass-syntax/sass-syntax.md 'Sass Syntax')** - **[Syntax](/sass-syntax/sass-syntax.md)**
 - **[04](variable/variable.md 'Sass Variable')** - **[Variable](/variable/variable.md)**
-- **[05](maps/maps.md 'Sass Maps')** - **[Maps](/maps/maps.md)**
+- **[05](maps/maps.md 'Sass maps and each')** - **[maps and each](/maps/maps.md)**
 - **[06](nesting/nesting.md 'Sass Nesting')** - **[Nesting](/nesting/nesting.md)**
 - **[07](partial/partial.md 'Sass Partial')** - **[Partial](/partial/partial.md)**
 - **[08](function/function.md 'Sass Function')** - **[Function](/function/function.md)**
