@@ -10,4 +10,5 @@
 - **[05](maps/maps.md 'Sass Maps')** - **[Maps](/maps/maps.md)**
 - **[06](nesting/nesting.md 'Sass Nesting')** - **[Nesting](/nesting/nesting.md)**
 - **[07](partial/partial.md 'Sass Partial')** - **[Partial](/partial/partial.md)**
-- **[07](function/function.md 'Sass Function')** - **[Function](/function/function.md)**
+- **[08](function/function.md 'Sass Function')** - **[Function](/function/function.md)**
+- **[09](mixin/mixin.md 'Sass Mixin')** - **[Mixin](/mixin/mixin.md)**
