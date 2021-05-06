@@ -1,3 +1,7 @@
+<p align="center">
+  <h1 align="center">SCSS for bigenners</h1>
+  <h3>SASS Partial</h3>
+
 ### A Partial is a Sass file named with a leading underscore. You might name it something like \_partial.scss . The underscore lets Sass know that the file is only meant to be loaded as modules, compiler ignore this file.
 
 ### create partial file like \_partial.scss

@@ -1,3 +1,7 @@
+<p align="center">
+  <h1 align="center">SCSS for bigenners</h1>
+  <h3>SASS Variable</h3>
+
 ## Declare Css variable
 
 ```css

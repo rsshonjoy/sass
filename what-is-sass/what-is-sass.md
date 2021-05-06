@@ -1,3 +1,7 @@
+<p align="center">
+  <h1 align="center">SCSS for bigenners</h1>
+  <h3>What is SASS</h3>
+
 # SASS: Syntactically Awesome Style Sheet
 
 ---

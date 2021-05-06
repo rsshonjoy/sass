@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">SCSS Tutorial</h1>
+  <h1 align="center">SCSS for bigenners</h1>
 
 ## Table of Contents:
 

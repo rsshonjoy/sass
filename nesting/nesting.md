@@ -1,4 +1,6 @@
-## CSS Nesting vs SASS Nesting
+<p align="center">
+  <h1 align="center">SCSS for bigenners</h1>
+  <h3>SASS Nesting</h3>
 
 ### html
 
