@@ -1,4 +1,4 @@
-## SCSS Tutorial
+# SCSS Tutorial
 
 ## Table of Contents:
 

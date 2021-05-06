@@ -1,6 +1,6 @@
 ## scss syntax
 
-```
+```scss
 @mixin button-base() {
   @include typography(button);
 
@@ -19,7 +19,7 @@
 
 ## Indented Syntax
 
-```
+```scss
 @mixin button-base()
   @include typography(button)
 
