@@ -1,6 +1,6 @@
 <p align="center">
   <h1 align="center">SCSS for bigenners</h1>
-  <h3>SASS Syntax</h3>
+  <h3 align="center">--- SASS Syntax ---</h3>
 
 ```scss
 @mixin button-base() {

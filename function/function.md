@@ -1,6 +1,6 @@
 <p align="center">
   <h1 align="center">SCSS for bigenners</h1>
-  <h3>SASS Function</h3>
+  <h3 align="center">--- SASS Function ---</h3>
 
 ### html
 
