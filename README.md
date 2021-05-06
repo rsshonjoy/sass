@@ -1,7 +1,5 @@
-# SCSS Tutorial
-
 <p align="center">
-  <h3 align="center">SCSS Tutorial</h3>
+  <h1 align="center">SCSS Tutorial</h1>
 
 ## Table of Contents:
 
