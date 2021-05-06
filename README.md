@@ -13,7 +13,7 @@
 - **[06](nesting/nesting.md 'Sass Nesting')** - **[Nesting](/nesting/nesting.md)**
 - **[07](partial/partial.md 'Sass Partial')** - **[Partial](/partial/partial.md)**
 - **[08](function/function.md 'Sass Function')** - **[Function](/function/function.md)**
-- **[09](extend/extend.md 'Sass extend and Inheritance')** - **[extend and Inheritance](/extend/extend.md)**
+- **[09](extend/extend.md 'Sass extend')** - **[extend](/extend/extend.md)**
 - **[10](mixin/mixin.md 'Sass Mixin')** - **[Mixin](/mixin/mixin.md)**
 
 ## 2 -&nbsp; Projects

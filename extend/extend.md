@@ -2,6 +2,8 @@
   <h1 align="center">SCSS for Bigenner's</h1>
   <h3 align="center">--- SASS extend and Inheritance ---</h3>
 
+## html
+
 ```html
 <button type="button" class="download-btn">Download</button>
 <button type="button" class="learn-more-btn">Learn More</button>
