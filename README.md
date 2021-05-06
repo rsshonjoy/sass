@@ -7,3 +7,4 @@
 - **[03](variable/variable.md 'Sass Variable')** - **[Variable](/variable/variable.md)**
 - **[04](maps/maps.md 'Sass Maps')** - **[Maps](/maps/maps.md)**
 - **[05](nesting/nesting.md 'Sass Nesting')** - **[Nesting](/nesting/nesting.md)**
+- **[05](partial/partial.md 'Sass Partial')** - **[Partial](/partial/partial.md)**
