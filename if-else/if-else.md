@@ -28,7 +28,7 @@
 }
 ```
 
-### use mixin
+### use if else
 
 ```scss
 .main {
