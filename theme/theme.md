@@ -6,7 +6,7 @@
 
 ```html
 <body class="light">
-  //code something
+  // code something
 </body>
 ```
 
