@@ -1,5 +1,8 @@
 # SCSS Tutorial
 
+<p align="center">
+  <h3 align="center">SCSS Tutorial</h3>
+
 ## Table of Contents:
 
 - **[01](what-is-sass/what-is-sass.md 'What is SASS')** - **[What is SASS](/what-is-sass/what-is-sass.md)**
