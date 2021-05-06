@@ -14,7 +14,7 @@ $accent-color: #ff652f;
 $text-color: #fff;
 ```
 
-### import file in main scss file
+### import file in main.scss file
 
 ```scss
 @import './resets'; // Partial file
