@@ -47,3 +47,34 @@
   }
 }
 ```
+
+## mixin with parameter
+
+### html
+
+```html
+<div class="main">
+  <p class="main_paragraph">
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit..
+  </p>
+</div>
+```
+
+### create mixin
+
+```scss
+@mixin para-style($size, $align) {
+  font-size: $size;
+  text-align: $align;
+}
+```
+
+### use mixin
+
+```scss
+.main {
+  &__paragraph {
+    @include para-style(28px, center);
+  }
+}
+```
