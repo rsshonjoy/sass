@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">SCSS for Bigenners</h1>
+  <h1 align="center">SCSS for Bigenner's</h1>
   <h3 align="center">--- SASS mixin ---</h3>
 
 ### html

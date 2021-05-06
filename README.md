@@ -1,7 +1,9 @@
 <p align="center">
-  <h1 align="center">SCSS for Bigenners</h1>
+  <h1 align="center">SCSS for Bigenner's</h1>
 
 ## Table of Contents:
+
+## 1 -&nbsp; SASS Core Concepts
 
 - **[01](what-is-sass/what-is-sass.md 'What is SASS')** - **[What is SASS](/what-is-sass/what-is-sass.md)**
 - **[02](IDEs-setup/ides-setup.md 'Sass IDEs-setup')** - **[IDEs setup](/IDEs-setup/ides-setup.md)**
@@ -12,3 +14,7 @@
 - **[07](partial/partial.md 'Sass Partial')** - **[Partial](/partial/partial.md)**
 - **[08](function/function.md 'Sass Function')** - **[Function](/function/function.md)**
 - **[09](mixin/mixin.md 'Sass Mixin')** - **[Mixin](/mixin/mixin.md)**
+
+## 2 -&nbsp; Projects
+
+- **[01](theme/theme.md 'Light and Dark theme')** - **[Light and Dark theme](/theme/theme.md)**
